@@ -7,8 +7,6 @@ Pod::Spec.new do |s|
   s.summary = 'Acoustic Tealeaf EOCore iOS SDK'
   s.platforms = { :ios => "9.0" }
   s.source = { :git => 'https://github.com/acoustic-analytics/IBMTealeaf.git', :tag => '10.6.30'}
-  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.default_subspec = 'Core'
   s.subspec 'Core' do |core|
     core.frameworks = 'SystemConfiguration', 'CoreTelephony', 'CoreLocation', 'WebKit'
