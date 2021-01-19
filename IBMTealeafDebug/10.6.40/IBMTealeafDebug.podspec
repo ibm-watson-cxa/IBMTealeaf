@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
     core.dependency 'EOCoreDebug'
   end
   s.subspec 'MD5' do |md5|
-    md5.dependency 'TealeafMD5'
-    md5.dependency 'IBMTealeaf/Core'
+    md5.dependency 'TealeafMD5Debug'
+    md5.dependency 'IBMTealeafDebug/Core'
   end
   s.subspec 'SHA512' do |sha512|
-    sha512.dependency 'TealeafSHA2'
-    sha512.dependency 'IBMTealeaf/Core'
+    sha512.dependency 'TealeafSHA2Debug'
+    sha512.dependency 'IBMTealeafDebug/Core'
   end
 end
