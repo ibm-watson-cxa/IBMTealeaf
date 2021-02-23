@@ -1,5 +1,5 @@
 {
-  "LibraryVersion": "10.6.52",
+  "LibraryVersion": "10.6.53",
   "FilterMessageTypes": false,
   "MessageTypes": "4,5,6",
   "AddMessageTypeHeader": true,
@@ -50,5 +50,12 @@
   "InitialZIndex": 500,
   "UseXpathId": false,
   "SubViewArrayZIndexIncrementTrigger": 502,
-  "AddGestureRecognizerUIScrollView": true
+  "AddGestureRecognizerUIScrollView": true,
+  "AddGestureRecognizerUITextView": true,
+  "AddGestureRecognizerUIButton": true,
+  "AddGestureRecognizerUISwitch": true,
+  "AddGestureRecognizerUISegmentedControl": true,
+  "AddGestureRecognizerUIPickerView": true,
+  "AddGestureRecognizerUIDatePicker": true,
+  "AddGestureRecognizerUIPageControl": true
 }

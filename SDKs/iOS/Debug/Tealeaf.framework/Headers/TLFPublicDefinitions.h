@@ -115,6 +115,13 @@ extern NSString* kTLFMobileStateEvent;
 #define kConfigurableItemSubViewArrayZIndexIncrementTrigger                 @"SubViewArrayZIndexIncrementTrigger"
 #define kConfigurableItemUseXpathId                                         @"UseXpathId"
 #define kConfigurableItemAddGestureRecognizerUIScrollView                   @"AddGestureRecognizerUIScrollView"
+#define kConfigurableItemAddGestureRecognizerUITextView                     @"AddGestureRecognizerUITextView"
+#define kConfigurableItemAddGestureRecognizerUIButton                       @"AddGestureRecognizerUIButton"
+#define kConfigurableItemAddGestureRecognizerUISwitch                       @"AddGestureRecognizerUISwitch"
+#define kConfigurableItemAddGestureRecognizerUISegmentedControl             @"AddGestureRecognizerUISegmentedControl"
+#define kConfigurableItemAddGestureRecognizerUIPickerView                   @"AddGestureRecognizerUIPickerView"
+#define kConfigurableItemAddGestureRecognizerUIDatePicker                   @"AddGestureRecognizerUIDatePicker"
+#define kConfigurableItemAddGestureRecognizerUIPageControl                  @"AddGestureRecognizerUIPageControl"
 
 // TLF Public Protocols
 @protocol TLFSavePrintScreenOperationDelegate <NSObject>
