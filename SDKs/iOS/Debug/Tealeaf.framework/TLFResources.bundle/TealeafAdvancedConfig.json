@@ -1,5 +1,5 @@
 {
-  "LibraryVersion": "10.6.55",
+  "LibraryVersion": "10.6.56",
   "FilterMessageTypes": false,
   "MessageTypes": "4,5,6",
   "AddMessageTypeHeader": true,
@@ -17,6 +17,7 @@
   "datePicker:dateChange": 1,
   "pickerView:valueChanged": 1,
   "textBox:textChange": 1,
+  "textBox:textChanged": 0,
   "textBox:_searchFieldBeginEditing": 0,
   "textBox:_searchFieldBeginChanged": 0,
   "textBox:_searchFieldEditingChanged": 0,
