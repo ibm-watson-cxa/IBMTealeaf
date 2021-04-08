@@ -1,5 +1,5 @@
 //
-// Copyright (C) 2020 Acoustic, L.P. All rights reserved.
+// Copyright (C) 2021 Acoustic, L.P. All rights reserved.
 //
 // NOTICE: This file contains material that is confidential and proprietary to
 // Acoustic, L.P. and/or other developers. No license is granted under any intellectual or
@@ -61,7 +61,7 @@ extern NSString* kTLFMobileStateEvent;
 #define kConfigurableItemHasToPersistLocalCache                             @"HasToPersistLocalCache"
 #define kConfigurableItemPostMessageLevelWifi                               @"PostMessageLevelWiFi"
 #define kConfigurableItemPostMessageLevelCellular                           @"PostMessageLevelCellular"
-#define kConfigurableItemPostMessageUrl                                   @"PostMessageURL"
+#define kConfigurableItemPostMessageUrl                                     @"PostMessageURL"
 #define kConfigurableItemPostMessageTimeIntervals                           @"PostMessageTimeIntervals"
 #define kConfigurableItemPostMessageMaxBytesSize                            @"PostMessageMaxBytesSize"
 #define kConfigurableItemPostMessageSecondLevel                             @"PostMessageSecondLevel"
@@ -122,6 +122,7 @@ extern NSString* kTLFMobileStateEvent;
 #define kConfigurableItemAddGestureRecognizerUIPickerView                   @"AddGestureRecognizerUIPickerView"
 #define kConfigurableItemAddGestureRecognizerUIDatePicker                   @"AddGestureRecognizerUIDatePicker"
 #define kConfigurableItemAddGestureRecognizerUIPageControl                  @"AddGestureRecognizerUIPageControl"
+#define kConfigurableItemSwiftUICaptureNonVariadic                          @"SwiftUICaptureNonVariadic"
 
 // TLF Public Protocols
 @protocol TLFSavePrintScreenOperationDelegate <NSObject>

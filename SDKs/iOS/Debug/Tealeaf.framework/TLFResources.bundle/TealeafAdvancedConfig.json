@@ -1,5 +1,5 @@
 {
-  "LibraryVersion": "10.6.56",
+  "LibraryVersion": "10.6.57",
   "FilterMessageTypes": false,
   "MessageTypes": "4,5,6",
   "AddMessageTypeHeader": true,
@@ -58,5 +58,6 @@
   "AddGestureRecognizerUISegmentedControl": true,
   "AddGestureRecognizerUIPickerView": true,
   "AddGestureRecognizerUIDatePicker": true,
-  "AddGestureRecognizerUIPageControl": true
+  "AddGestureRecognizerUIPageControl": true,
+  "SwiftUICaptureNonVariadic": false
 }
