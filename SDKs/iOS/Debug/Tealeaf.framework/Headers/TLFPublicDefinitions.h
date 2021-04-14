@@ -123,6 +123,7 @@ extern NSString* kTLFMobileStateEvent;
 #define kConfigurableItemAddGestureRecognizerUIDatePicker                   @"AddGestureRecognizerUIDatePicker"
 #define kConfigurableItemAddGestureRecognizerUIPageControl                  @"AddGestureRecognizerUIPageControl"
 #define kConfigurableItemSwiftUICaptureNonVariadic                          @"SwiftUICaptureNonVariadic"
+#define kConfigurableItemUIKeyboardCaptureTouches                           @"UIKeyboardCaptureTouches"
 
 // TLF Public Protocols
 @protocol TLFSavePrintScreenOperationDelegate <NSObject>
