@@ -77,8 +77,8 @@ Above carthage command should complete with no errors.
 
 # Getting Started with Swift Package
 Please go to 
-- Release library: https://github.com/acoustic-analytics/DigitalAnalytics-SP
-- Debug library: https://github.com/acoustic-analytics/DigitalAnalyticsDebug-SP
+- Release library: https://github.com/acoustic-analytics/Tealeaf-SP
+- Debug library: https://github.com/acoustic-analytics/TealeafDebug-SP
 ***
 ## Uploading Application Images To Tealeaf Server (Only Needed for NonEnhanced Replay)
 Whichever hashing algorithm you choose, we recommend you repackage your application images and upload them to Tealeaf Server. Detailed steps are available [here](https://developer.goacoustic.com/acoustic-exp-analytics/docs/capturing-and-uploading-images-with-the-image-tool)
